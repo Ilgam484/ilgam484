@@ -12,12 +12,13 @@
 
 Я начинающий аналитик данных с фокусом на продуктовую аналитику.
 
-- Перешёл в аналитику после опыта в обучении программированию  
+- Перешёл в аналитику после опыта в обучении программированию детей 
 - Анализирую продуктовые метрики (DAU, CTR, retention)  
 - Провожу A/B тесты и строю прогнозы  
-- Превращаю данные в конкретные бизнес-решения  
+- Превращаю данные в конкретные бизнес-решения
+- Также увлекаюсь музыкой и чтением
 
-👉 Открыт к стажировкам и junior-позициям  
+👉 Открыт для сотрудничества! 
 
 ---
 
@@ -47,10 +48,12 @@
 
 | Проект | Описание | Стек |
 |--------|----------|------|
-| [A/B тест алгоритма рекомендаций](https://github.com/Ilgam484/ab-test-recommendation-algorithm) | Анализ влияния алгоритма на CTR. Вывод: улучшение не подтверждено | Python, scipy, статистика |
+| [A/B тест алгоритма рекомендаций](https://github.com/Ilgam484/ab-test-recommendation-algorithm) | Проведен анализ A/B-теста нового алгоритма рекомендаций постов в новостной ленте. Цель — оценить влияние алгоритма на ключевую метрику вовлеченности пользователей (CTR). | Python, scipy, статистика |
 | [Прогнозирование метрик](https://github.com/Ilgam484/product-metrics-forecasting) | Модели прогнозирования активности пользователей | Python, Orbit, временные ряды |
 | [Анализ флешмоба](https://github.com/Ilgam484/feature-impact-analysis-flashmob) | Оценка влияния маркетинговой активности на DAU и CTR | Python, CausalImpact |
 | [Анализ онлайн-ритейла](https://github.com/Ilgam484/customer-retention-analysis-online-retail) | Когортный анализ и удержание клиентов | Python, EDA |
+| [Анализ рынка видео-игр](https://github.com/Ilgam484/video-game-market-analysis) | Анализ рынка и определение стратегии маркетинговой кампании для максимизации продаж | Python, Pandas, Matplotlib, EDA |
+| [Анализ пользовательской активности и продуктовые дашборды](https://github.com/Ilgam484/product-analytics-dashboard) | В рамках проекта разработаны дашборды для анализа пользовательской активности, ключевых продуктовых метрик и взаимодействия сервисов (лента новостей и мессенджер). Цель — понять поведение пользователей, оценить источники трафика и выявить точки роста продукта. | SQL (ClickHouse), Superset | 
 
 ---
 
@@ -58,11 +61,11 @@
 
 <div align="center">
 
-<a href="https://t.me/ТВОЙ_НИК">
+<a href="https://t.me/ilg_maks">
 <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white"/>
 </a>
 
-<a href="mailto:ТВОЯ_ПОЧТА">
+<a href="mailto:maksutovilgam@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
