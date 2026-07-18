@@ -48,12 +48,13 @@
 
 | Проект | Описание | Стек |
 |--------|----------|------|
-| [A/B тест алгоритма рекомендаций](https://github.com/Ilgam484/ab-test-recommendation-algorithm) | Анализ двух алгоритмов рекомендаций 6 методами (t-тест, Манна-Уитни, бутстреп, линеаризация лайков). Выявлено противоречие поюзерного и глобального CTR. Рекомендовано не раскатывать оба алгоритма на всю аудиторию. | Python, scipy, ClickHouse, статистика |
-| [Анализ флешмоба (CausalImpact)](https://github.com/Ilgam484/feature-impact-analysis-flashmob) | Байесовский анализ эффекта флэшмоба на DAU, CTR и активность. Когортный анализ retention показал что флэшмоб привлекает аудиторию на уровне органики (11.4% Day 30) — в 3 раза выше рекламной кампании. | Python, CausalImpact, ClickHouse |
+| [AB Test Analysis](https://github.com/Ilgam484/ab-test-recommendation-algorithm) | Анализ двух алгоритмов рекомендаций 6 методами (t-тест, Манна-Уитни, бутстреп, линеаризация лайков). Выявлено противоречие поюзерного и глобального CTR. Рекомендовано не раскатывать оба алгоритма. | Python, scipy, ClickHouse |
+| [AB Test Design: Sample Size](https://github.com/Ilgam484/ab-test-design-sample-size) | Монте-Карло симуляция мощности при трёх сценариях. Фильтрация выборки повысила мощность с 79.3% до 87.8% — качество данных важнее количества. | Python, numpy, scipy, ClickHouse |
+| [Анализ флешмоба (CausalImpact)](https://github.com/Ilgam484/feature-impact-analysis-flashmob) | Байесовский анализ эффекта флэшмоба на DAU, CTR и активность. Retention когорт показал что флэшмоб привлекает аудиторию на уровне органики (11.4% Day 30) — в 3 раза выше рекламной кампании. | Python, CausalImpact, ClickHouse |
 | [Прогнозирование метрик](https://github.com/Ilgam484/product-metrics-forecasting) | Прогнозирование ключевых продуктовых метрик. Выявлены сезонные паттерны для планирования ресурсов. | Python, Orbit, временные ряды |
-| [Анализ пользовательской активности и продуктовые дашборды](https://github.com/Ilgam484/product-analytics-dashboard) | Дашборды для анализа пользовательской активности, ключевых метрик и взаимодействия сервисов. Автоматизирован сбор и визуализация DAU, CTR, retention. | SQL, ClickHouse, Superset |
+| [Анализ пользовательской активности](https://github.com/Ilgam484/product-analytics-dashboard) | Дашборды для анализа пользовательской активности, ключевых метрик и взаимодействия сервисов. | SQL, ClickHouse, Superset |
 | [Анализ онлайн-ритейла](https://github.com/Ilgam484/customer-retention-analysis-online-retail) | Когортный анализ и удержание клиентов | Python, EDA |
-| [Анализ рынка видео-игр](https://github.com/Ilgam484/video-game-market-analysis) | Анализ рынка и определение стратегии маркетинговой кампании для максимизации продаж | Python, Pandas, Matplotlib, EDA |
+| [Анализ рынка видео-игр](https://github.com/Ilgam484/video-game-market-analysis) | Анализ рынка и определение стратегии маркетинговой кампании | Python, Pandas, Matplotlib |
 
 ---
 
